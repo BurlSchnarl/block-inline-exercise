@@ -1,0 +1,55 @@
+/* Put your CSS rules here: */
+
+.picture_container {
+    background-color: black;
+}
+
+img {
+    padding-top: 10px;
+    padding-right: 10px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: blue;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.underlined {
+    text-decoration: underline;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.italic {
+    font-style: italic;
+    font-weight: bold;
+}
+
+.tile {
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+    border-color: black;
+    border-style: solid;
+    background-color: white;
+    height: 10px;
+}
+
+
+/* These are for the exercise, please don't edit them! */
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.content {
+    width: 980px;
+    padding: 10px;
+}
